@@ -1,20 +1,29 @@
-<h1>Hi there ! I'm Occalepsus &#128075</h1>
+# Hi there ! I'm Occalepsus &#128075</h1>
 <!--<p>I'm just a random developer who likes algorithms and mathematics.</p>-->
-<p>I touch to practically everything and I enjoy discovering new things.</br>
-Currently studying at <a href="https://www.telecom-sudparis.eu/">Télécom SudParis</a>, I'm discovering team work and professionnal programming, I as also learning Mathematics, Physics or other computer-related things such as signal treatment, video games developpement and robotics.
-<h2>Where I am confortable :</h2>
-<ul>
-<li><img src="https://styles.redditmedia.com/t5_2yfb2/styles/communityIcon_74j51iggmzr71.png" display="inline" height="30em" />&#32- C# with Unity</li>
-<li><img src="https://static.cdnlogo.com/logos/c/27/c.svg" height="30em" /> - C#.NET</li>
-<li><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" height="40em" />&#32- Java</li>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="25em" />&#32- Python 3</li>
-</ul>
-<h2>What I am currently learning :</h2>
-<ul>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30em" />&#32- C++</li>
-<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" height="25em" />&#32- JavaScript</li>
-</p>
+I touch to practically everything and I enjoy discovering new things.</br>
+Currently studying at [Télécom SudParis](https://www.telecom-sudparis.eu/), I'm discovering team work and professionnal programming, I as also learning Mathematics, Physics or other computer-related things such as signal treatment, video games developpement and robotics.
 
-<h3>How to reach me</h3>
-<ul>
-  <li>
+## Where I am confortable :</h2>
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python 3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!--![aa](https://github-readme-stats.vercel.app/api/top-langs/?username=Occalepsus)-->
+
+## What I am currently learning :
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+
+## How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/occalepsus/)](https://www.linkedin.com/in/occalepsus/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Occalepsus)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juju.joly@free.fr?subject=[GitHub]%20)
+[![Signal]
