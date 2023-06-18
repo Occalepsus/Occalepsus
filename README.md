@@ -47,5 +47,6 @@ At the end we only developed on the Oculus Quest 2, this app can be used for a p
 ## What I plan to learn 📓 :
 
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 #### Thanks for reading this ! Keep going further. 👍
