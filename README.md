@@ -19,7 +19,7 @@ At the end we only developed on the Oculus Quest 2, this app can be used for a p
 
 
 ## How to reach me 📫 :
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/occalepsus/)](https://www.linkedin.com/in/occalepsus/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joly-julien/)](https://www.linkedin.com/in/joly-julien/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Occalepsus)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juju.joly@free.fr?subject=[GitHub]%20)
 ![Discord](https://img.shields.io/badge/occalepsus-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
