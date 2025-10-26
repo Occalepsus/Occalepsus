@@ -8,7 +8,7 @@ Former student at [Télécom SudParis](https://www.telecom-sudparis.eu/), I disc
 Don't hesitate to check [my repositories](https://github.com/Occalepsus?tab=repositories)! I made some Unity games (or at least interesting things with Unity like [a cubic-cloud creator](https://github.com/Occalepsus/MapCreator-UnityProject)) and few other things like a [python synchronous server](https://github.com/Occalepsus/PythonSocket-Client-Server) with sockets. I was in the High Level team of a great project for my Robotics association Intech : [TechTheTime-HighLevel](https://github.com/Club-INTech/TechTheTime-HighLevel), we participated at the France Robotic cup.
 
 ## DORéMi project :wavy_dash: :
-My biggest school project has been [DORéMi](https://github.com/Occalepsus/DoReMi-Oculus), *Des Ondes en Réalité Mixte (mixed reality waves)*. This project was asked by physics researchers at Télécom Sudparis to help visualize WiFi sthrength level in space using mixed reality technologies like the Oculus Quest 2 or Microsoft Hololens 2.
+My biggest school project was [DORéMi](https://github.com/Occalepsus/DoReMi-Oculus), *Des Ondes en Réalité Mixte (mixed reality waves)*. This project was requested by physics researchers at Télécom Sudparis to help visualize WiFi sthrength level in space using mixed reality technologies like the Oculus Quest 2 or Microsoft Hololens 2.
 
 At the end we only developed on the Oculus Quest 2, this app can be used for a practicum with students to compare different networks, occlusions, models, etc.
 
